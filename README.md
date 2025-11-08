@@ -17,6 +17,7 @@ Detect and count the total number of cars in a given video using a YOLOv8-based 
 - Final output video shows total cars detected per frame.
 
 ##  Folder Structure
+```
 Counting-Total-Number-of-Cars-in-Video/
 ├── car_counting_workflow.ipynb
 ├── main.py
@@ -29,6 +30,7 @@ Counting-Total-Number-of-Cars-in-Video/
 ├── model/
 │   └── best_model_link.txt
 └── README.md
+```
 
 ##  Run Inference
 from ultralytics import YOLO
