@@ -20,15 +20,10 @@ Detect and count the total number of cars in a given video using a YOLOv8-based 
 ```
 Counting-Total-Number-of-Cars-in-Video/
 ├── car_counting_workflow.ipynb
-├── main.py
 ├── My_First_Project/
 │   ├── data.yaml
 │   ├── train/
 │   └── valid/
-├── results/
-│   └── sample_predictions/
-├── model/
-│   └── best_model_link.txt
 └── README.md
 ```
 
