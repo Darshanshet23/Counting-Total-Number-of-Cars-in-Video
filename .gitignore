@@ -1,0 +1,8 @@
+# Ignore model weights, videos, and temporary folders
+*.pt
+*.mp4
+runs/
+images/
+__pycache__/
+.ipynb_checkpoints/
+.lightning_studio/

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Car']
+
+roboflow:
+  workspace: shet-0wpm5
+  project: my-first-project-adibd
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shet-0wpm5/my-first-project-adibd/dataset/2
